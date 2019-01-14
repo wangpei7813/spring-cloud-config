@@ -3,6 +3,9 @@
 
 只是一个基于spring-cloud项目架构没有集成数据库等其他组件
 
+# id-generator-service
+id生成服务
+
 # spring-cloud-config 
 配置文件仓库
 
